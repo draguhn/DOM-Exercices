@@ -1,5 +1,5 @@
 //Bereich auswählen
-const body = document.querySelector("#body")
+const body = document.querySelector("body")
 //Element erzeugen
 const div1 = document.createElement("div")
 //HTML Inhalt erzeugen
